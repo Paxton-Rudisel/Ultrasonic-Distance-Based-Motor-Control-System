@@ -1,5 +1,9 @@
 # Ultrasonic Distance-Based Motor Control System
 
+![Ultrasonic motor control circuit with ESP32, HC-SR04 sensor, L293D motor driver, NeoPixel LED strip, and DC motor with fan](StopLight.png)
+
+[Watch the demonstration video](StopLight%20Video.mp4)
+
 An ESP32-based circuit designed to practice ultrasonic distance sensing, DC motor control, and NeoPixel LED status indication in preparation for a robotics project.
 
 ## Project Overview
